@@ -1,6 +1,6 @@
 "You can view the Stopwatch web application by clicking on the link below:
 
-Link - " https://karanprasad2706.github.io/PRODIGY_WD_02/ "
+
 
 The Professional Stopwatch web application offers a feature-rich stopwatch experience for users, combining modern design with practical functionality. Whether for timing exercises, workouts, or any other precision measurement, this stopwatch ensures accurate tracking and provides additional features like lap recording.
 
